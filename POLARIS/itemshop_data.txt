@@ -701,3 +701,4 @@ Id: 36646, Name: PMC Top Mk.II, Selling: 0.00
 Id: 36647, Name: PMC Vest Mk.II, Selling: 0.00
 Id: 36648, Name: PMC Helmet Mk.II, Selling: 0.00
 Id: 36649, Name: PMC Helmet Mk.II, Selling: 0.00
+Id: 30539, Name: Skinner EBR Stock, Selling:800.00
